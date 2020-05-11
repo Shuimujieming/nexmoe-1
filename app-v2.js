@@ -24,7 +24,7 @@ function init(){
     <header class="nav">
 		<div class="navSize">
 			<a href="/"><img class="avatar" src="https://cdn.jsdelivr.net/gh/yaoxiaonie/nexmoe/png/favicon.png"/></a>
-			<a class="login" href="https://www.olxmi.com/" target="_blank">论坛</a>
+			<a class="login" href="impulsemi.xyz" target="_blank">ImpulseMi官网</a>
 		</div>
 	</header>
 <div class="mdui-container">
